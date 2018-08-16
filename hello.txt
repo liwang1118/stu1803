@@ -3,5 +3,9 @@
 test
 
 89s4da6s1d56sa1d56sa1d
+<<<<<<< HEAD
 adsdsdsadsad
 sdsad
+=======
+adsdsdsadsad
+>>>>>>> 2c0c96b8d5256f399d59676d4fe649f9a11c4a5e
